@@ -29,5 +29,5 @@ npm install
 npm run dev
 ```
 
-Checkout truffle weback documentation for details.
+Checkout truffle webpack documentation for details.
 
